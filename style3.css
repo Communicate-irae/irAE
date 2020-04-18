@@ -1,0 +1,61 @@
+h1 {
+  font-size:28px;
+  font-family: "游ゴシック";
+  padding-left: 20px;
+  color: red;
+  background-color: skyblue;
+}
+.second {
+  background-color: rgb(200, 241, 233);
+  
+}
+a {
+  text-decoration: none;
+}
+.header {
+  background-color: black;
+  height: 60px;
+}
+h3 {
+  color: white;
+  font-size: 28px;
+  font-family: "游ゴシック";
+  padding-top: 20px;
+  padding-left: 80px;
+  font-weight: bolder;
+}
+.secondsym {
+  display: inline-block;
+  padding:10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  list-style: none;
+  border: 5px solid rgb(98, 119, 128);
+  width: auto;
+  font-size: 24px;
+  font-family: "游ゴシック";
+  
+ 
+}
+
+span {
+  color: navy;
+  font-weight: bolder;
+
+}
+
+h2 {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: gray;
+  clear: both;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer p {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: gray;
+
+}
