@@ -14,6 +14,11 @@
   height: 75px;
 }
 
+.counter {
+  margin: 0 auto;
+  padding-top: 1ex;
+}
+
 h2 {
   color: rgb(252, 2, 36);
   font-size: 30px;
