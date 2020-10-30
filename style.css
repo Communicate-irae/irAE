@@ -15,9 +15,8 @@
 }
 
 .counter {
-  dysplay: inline-block;
-  width: 120px;
-  padding-top: 1ex;
+  text-align: center; 
+  margin-top: 1ex;
 }
 
 h2 {
