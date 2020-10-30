@@ -15,7 +15,8 @@
 }
 
 .counter {
-  margin: 0 auto;
+  dysplay: inline-block;
+  width: 120px;
   padding-top: 1ex;
 }
 
