@@ -15,7 +15,8 @@
 }
 
 .counter {
-  text-align: center;
+  margin : 0  auto;
+  padding-top: 1ex;
 }
 
 h2 {
